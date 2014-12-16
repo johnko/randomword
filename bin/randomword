@@ -28,7 +28,7 @@
 # For more information, please refer to <http://unlicense.org>
 #
 ######################################################################
-# Script version is YYmmdd-HHMM in UTC, date +%y%m%d-%H%M%S
+# Script version is yymmdd-HHMMSS in UTC, date +%y%m%d-%H%M%S
 ######################################################################
 SCRIPTVERSION=141214-064814
 
